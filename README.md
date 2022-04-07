@@ -25,12 +25,13 @@
 👯 I’m looking to collaborate with you on interesting projects. </br>
 
 <br>
+<br>
 
 <p align="center">
   <a href="https://github.com/MRK04">
     <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/?username=mrk04&show_icons=true&hide=issues&title_color=fff&icon_color=fb8359&text_color=9f9f9f&bg_color=3E3E3E&hideborder=true" />
   </a>
   <a href="https://github.com/MRK04">
-    <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrk04&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=3E3E3E&hideborder=true&langs_count=6" />
+    <img align="center" height="160px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrk04&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=3E3E3E&hideborder=true&show=jupyter%20notebook,C++,java,dart,makefile&langs_count=6"/>
   </a>
 </p>
