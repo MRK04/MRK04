@@ -19,7 +19,7 @@
 
 ### About Me 🚀
 
-🔭 I’m a Pre-Final year E&TC Undergrad Student at VIT Pune. </br>
+🔭 I’m a Final year E&TC Undergrad Student at VIT Pune. </br>
 👨‍💻 I am passionate about Web Development & I enjoy learning new things. </br>
 🌱 I’m currently learning Data Structures and Algorithms. </br>
 👯 I’m looking to collaborate with you on interesting projects. </br>
